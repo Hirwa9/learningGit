@@ -9,15 +9,15 @@ I am a self taught programmer, and now I know I have to get used to version cont
 > [!IMPORTANT]
 > How to make repository and work with branches to make changes to the main repo /***(branch)***
   1. Repository creation includes the following
-    * Create a repo,
-    * Specify a type of the repo *(Public or Private)*,
-    * Add a readme.md file, and more optional things,
-    * Save changes / Commit changes to create the repo.
+     * Create a repo,
+     * Specify a type of the repo *(Public or Private)*,
+     * Add a readme.md file, and more optional things,
+     * Save changes / Commit changes to create the repo.
   2. Branch creation and workings
-    * Create and name a branch from the **Code** tab in a chosen repo,
-    * Make changes to the branch
-    * Save changes
-      - Create a pull request,
-      - Make sure of to select the correct comparison brances *(main branch vs new branch)*,
-      - Merge the branches/Commit changes *(Make complete change to the main branch)* #004572, and delete the new branch created for edits.
+     * Create and name a branch from the **Code** tab in a chosen repo,
+     * Make changes to the branch
+     * Save changes
+       - Create a pull request,
+       - Make sure of to select the correct comparison brances *(main branch vs new branch)*,
+       - Merge the branches/Commit changes *(Make complete change to the main branch)* #004572, and delete the new branch created for edits.
   3. Text fromatting in different Github files like the one I used in the readme.
