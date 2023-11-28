@@ -19,5 +19,5 @@ I am a self taught programmer, and now I know I have to get used to version cont
      * Save changes
        - Create a pull request,
        - Make sure of to select the correct comparison brances *(main branch vs new branch)*,
-       - Merge the branches/Commit changes *(Make complete change to the main branch)* #004572, and delete the new branch created for edits.
+       - Merge the branches/Commit changes *(Make complete change to the main branch)* `#004572`, and delete the new branch created for edits.
   3. Text fromatting in different Github files like the one I used in the readme.
